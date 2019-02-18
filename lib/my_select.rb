@@ -17,6 +17,6 @@ end
 #   count+=1
 # end
 # result
-# 
+#
 #   # collection.select { |item|  }
 # end
