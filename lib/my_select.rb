@@ -10,13 +10,3 @@ def my_select(array)
   end
   my_arr
 end
-
-#   if yield(array[count]) == true
-#   result.push(array[count])
-# end
-#   count+=1
-# end
-# result
-#
-#   # collection.select { |item|  }
-# end
