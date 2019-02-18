@@ -10,6 +10,6 @@ def my_select(collection)
   end
   my_arr
 end
-  
+
   # collection.select { |item|  }
 end
